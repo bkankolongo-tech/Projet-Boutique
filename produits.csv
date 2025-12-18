@@ -2,5 +2,6 @@ id,nom,description,prix,quantité
 1,Ordinateur Portable,PC puissant pour le code,1200.50,10
 2,Souris Sans Fil,Souris ergonomique,25.00,50
 3,Clavier Mécanique,Clavier rétroéclairé,80.00,20
-4,Casque Audio,Casque bluetooth sans fil,35.00,15
-5,ecran,screen sans fil,40.00,12
+4,Clavier,Clavier à couleurs,30.00,25
+5,Casque Audio,Casque BLUETOOTH avec réduction de bruit,60.00,30
+
